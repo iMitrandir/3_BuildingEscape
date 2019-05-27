@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.25807.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{25EF492A-57C2-4D05-81F7-4C31921797E0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{930275CB-6E5D-4475-8A4E-107F4D09965C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enterprise", "Enterprise", "{B880C5CA-4BF9-4A65-83BA-341474E79539}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enterprise", "Enterprise", "{7B2472E7-FFD5-4638-B819-FC709DF274D8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{BB4CA74E-0EC9-4403-B78F-4BCF2056EA8C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{297C943B-AA76-4A6A-A7C5-156791A96F82}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE4", "Intermediate\ProjectFiles\UE4.vcxproj", "{5407DE51-8077-4A17-978F-13271AC47921}"
 EndProject
@@ -15,9 +15,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Studio", "Intermediate\Proj
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BuildingEscape", "Intermediate\ProjectFiles\BuildingEscape.vcxproj", "{23E2630E-2FA4-4175-8C8C-8881FC5C1079}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualizers", "Visualizers", "{DF26FF27-F867-4342-B23C-1815AD321FB5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualizers", "Visualizers", "{17307186-717E-40C4-83DC-3FF6DACF10FD}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\..\Program Files\Epic Games\UE_4.21\Engine\Extras\VisualStudioDebugging\UE4.natvis = ..\..\..\..\..\Program Files\Epic Games\UE_4.21\Engine\Extras\VisualStudioDebugging\UE4.natvis
+		..\..\..\..\..\..\Program Files\Epic Games\UE_4.21\Engine\Extras\VisualStudioDebugging\UE4.natvis = ..\..\..\..\..\..\Program Files\Epic Games\UE_4.21\Engine\Extras\VisualStudioDebugging\UE4.natvis
 	EndProjectSection
 EndProject
 Global
@@ -100,8 +100,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{5407DE51-8077-4A17-978F-13271AC47921} = {25EF492A-57C2-4D05-81F7-4C31921797E0}
-		{851F7B50-07C9-4D4F-AA01-472E24631894} = {B880C5CA-4BF9-4A65-83BA-341474E79539}
-		{23E2630E-2FA4-4175-8C8C-8881FC5C1079} = {BB4CA74E-0EC9-4403-B78F-4BCF2056EA8C}
+		{5407DE51-8077-4A17-978F-13271AC47921} = {930275CB-6E5D-4475-8A4E-107F4D09965C}
+		{851F7B50-07C9-4D4F-AA01-472E24631894} = {7B2472E7-FFD5-4638-B819-FC709DF274D8}
+		{23E2630E-2FA4-4175-8C8C-8881FC5C1079} = {297C943B-AA76-4A6A-A7C5-156791A96F82}
 	EndGlobalSection
 EndGlobal
