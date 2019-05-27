@@ -1,0 +1,16 @@
+#############################
+######UE4 Generated Files####
+##############################
+*/Intermediate/
+*/Build/
+*/Binaries/
+*/Saved/
+*/DerivedDataCache/
+BuildingEscape/Content/StarterContent/
+#############################
+######VC Generated Files####
+##############################
+*.VC.db
+
+*.db-wal
+*.opendb
